@@ -20,7 +20,7 @@ export default function Home() {
   }, [search]);
   return (
     <>
-      <Header />
+      {/* <Header /> */}
       <div className="home">
         <Posts posts={posts} />
         <Sidebar />
