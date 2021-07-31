@@ -2,6 +2,7 @@ import "./sidebar.css";
 import { useEffect, useState } from "react";
 import axios from "axios";
 import { Link } from "react-router-dom";
+import  nice  from '../../public/nice.jpg'
 
 export default function Sidebar() {
   const [cats, setCats] = useState([]);
@@ -17,7 +18,7 @@ export default function Sidebar() {
     <div className="sidebar">
       <div className="sidebarItem">
         <span className="sidebarTitle">ABOUT ME</span>
-        <img src="" alt="" />
+        <img src={nice} alt="" />
         <p>Lorem </p>
       </div>
 
