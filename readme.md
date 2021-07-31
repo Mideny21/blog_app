@@ -2,7 +2,7 @@
 
 A simple blog application with users, posts as well CRUD functionalities - developed using React, Node, Express and MongoDB.
 
-![ScreenShot](https://github.com/Mideny21/social-network/blob/master/view.png?raw=true)
+![ScreenShot](https://github.com/Mideny21/blog_app/blob/master/reactblog.png?raw=true)
 
 <!-- ### [Live Demo](http://social2.mernbook.com/ "Social") -->
 
